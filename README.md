@@ -12,8 +12,8 @@
 
 ### 2. 克隆代码
 ```bash
-git clone <你的仓库地址>
-cd <项目目录>
+git clone https://github.com/panpeter2024/date_mcp
+cd date_mcp
 ```
 
 ### 3. 创建虚拟环境并安装依赖
